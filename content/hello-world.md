@@ -4,8 +4,6 @@ date: 2025-04-28
 description: "My first post exploring some ideas"
 ---
 
-# Hello World
-
 Sometimes I think about how we as developers approach problems. Let me share some thoughts on this topic.
 
 ## The Nature of Abstraction
