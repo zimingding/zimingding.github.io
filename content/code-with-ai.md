@@ -26,13 +26,11 @@ export default async function Post({
 Or mute TypeScript error for a quick fix
 
 ```jsx
-<h2>
-    <Link href={`/${post.slug}`}>
-    {/* 
+<Link href={`/${post.slug}`}>
+{/* 
 // @ts-expect-error: Ignore */}
-    {post.frontMatter.title}
-    </Link>
-</h2>
+{post.frontMatter.title}
+</Link>
 ```
 
 But the toughest part was deploying to GitHub Pages, I need to add a [.nojekyll](https://github.blog/news-insights/bypassing-jekyll-on-github-pages/) file so that deployment in GitHub Actions can include "_next" folder that has css. And sadly ChatGPT has no clue, seems Google search is still very much needed.
