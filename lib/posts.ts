@@ -27,7 +27,7 @@ export async function getPostBySlug(slug: string) {
   
   // Use remark to convert markdown into HTML
   const processedContent = await remark()
-    .use(html, { sanitize: false, allowDangerousHtml: true })
+    .use(html, { sanitize: false })
     .process(content);
     
   const contentHtml = processedContent.toString();

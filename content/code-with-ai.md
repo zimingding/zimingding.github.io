@@ -16,14 +16,7 @@ GitHub serves as my 'database' - it stores my source code and host the blog. I m
 
 ## Challenges
 
-I encountered several TypeScript compile errors, which can be fixed by either adjusting the types, such as
-
-```ts
-export default async function Post({
-     params }: { params: Promise<{slug: string}> })
-```
-
-Or mute TypeScript error for a quick fix
+I encountered several TypeScript compile errors, which can be fixed by either adjusting the types or mute TypeScript error for a quick fix
 
 ```jsx
 {/* 
