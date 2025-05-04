@@ -16,13 +16,7 @@ GitHub serves as my 'database' - it stores my source code and host the blog. I m
 
 ## Challenges
 
-I encountered several TypeScript compile errors, which can be fixed by either adjusting the types or mute TypeScript error for a quick fix
-
-```jsx
-{/* 
-// @ts-expect-error: Ignore */}
-{post.frontMatter.title}
-```
+I encountered several TypeScript compile errors, which can be fixed by either adjusting the types, or mute TypeScript error for a quick fix.
 
 But the toughest part was deploying to GitHub Pages, I need to add a [.nojekyll](https://github.blog/news-insights/bypassing-jekyll-on-github-pages/) file so that deployment in GitHub Actions can include "_next" folder that has css. And sadly ChatGPT has no clue, seems Google search is still very much needed.
 
