@@ -7,13 +7,14 @@ export async function generateStaticParams() {
   return getAllPostSlugs();
 }
 
-export default async function Post({ params }: { params: Promise<{slug: string}> }) {
+export default async function Post({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const post = await getPostBySlug(slug);
-  
+
   return (
     <article className="post">
       <header>
+        <Link href="/">← Back to Home</Link>
         {/* 
 // @ts-expect-error: Ignore */}
         <h1>{post.frontMatter.title}</h1>
@@ -21,12 +22,12 @@ export default async function Post({ params }: { params: Promise<{slug: string}>
           {format(new Date(post.frontMatter.date), 'MMMM d, yyyy')}
         </div>
       </header>
-      
-      <div 
+
+      <div
         className="post-content"
-        dangerouslySetInnerHTML={{ __html: post.content }} 
+        dangerouslySetInnerHTML={{ __html: post.content }}
       />
-      
+
       <footer>
         <Link href="/">← All posts</Link>
       </footer>
