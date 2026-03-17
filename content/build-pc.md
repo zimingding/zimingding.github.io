@@ -6,7 +6,7 @@ description: "How to build a pc in 2026"
 
 ## Background
 
-I have been using pc since year 1997, my dad bought me my first pc when I was about to start university. I know you can assemble all the parts and together they make a pc but I never had the opportunity to build one myself. Always relied on the pc/parts seller to do the job for me. Time flys to 2026, Daniel has been asking for a pc for a while and I decided to build one for him.
+I have been using pc since year 1997, my dad bought me my first pc when I was about to start university. I know you can assemble all the parts and together they make a pc but I never had the opportunity to build one myself. Always relied on the pc/parts seller to do the job for me. Time flies to 2026, Daniel has been asking for a pc for a while and I decided to build one for him.
 
 ## Purchase PC Parts
 
@@ -15,7 +15,7 @@ https://au.pcpartpicker.com/list/zjkD3R
 
 At the time of buying the memory price is going crazy thanks to the AI bubble that's consuming most of the RAM supplys. I found the cheapest memory from amazon.com and waited 2 weeks for it to ship from US to Australia. The rest of parts I mainly bought from center.com, a large vender relatively close to my home and actually open on Sunday. This is a big standing out factor, if you don't open on Sunday you might lose business/customers that only have free time on the weekends, which is the most of us.
 
-I made a mistake on the power supply (PSU) - my mind is fixed on the ASUS brand but if you think more ASUS is more a brand for motherboard and laptop etc, not really a good candidate for PSU. As a consequence my new ASUS PSU only run a few hours then it started to make scraping noise. Fortunately its a small part I immeidately researched and bought a trustworthy brand Corsair and it worked perfectly so far.
+I made a mistake on the power supply (PSU) - my mind is fixed on the ASUS brand but if you think more ASUS is more a brand for motherboard and laptop etc, not really a good candidate for PSU. As a consequence my new ASUS PSU only run a few hours then it started to make scraping noise. Fortunately its a small part I immediately researched and bought a trustworthy brand Corsair and it worked perfectly so far.
 
 ## Build Time
 
@@ -23,7 +23,7 @@ Build experience is kind of fun, you can think of all the parts as lego pieces a
 
 ### Motherboard and CPU
 
-Firstly I unboxed motherboard and CPU, lifted the CPU soket cover and put down the AMD Ryzen 7600. Another observation, when I started my first PC, Intel is the dominant CPU provider, AMD is like the secondary lower quality rival. Fast forward to today, AMD seems overtaken Intel, a feat I would never believed if someone told me Intel will not be the best CPU in the future. Same thing is happening to Google search.
+Firstly I unboxed motherboard and CPU, lifted the CPU socket cover and put down the AMD Ryzen 7600. Another observation, when I started my first PC, Intel is the dominant CPU provider, AMD is like the secondary lower quality rival. Fast forward to today, AMD seems overtaken Intel, a feat I would never believed if someone told me Intel will not be the best CPU in the future. Same thing is happening to Google search.
 
 ### CPU Cooler
 
@@ -47,7 +47,7 @@ Another easy to install part
 
 ### PSU
 
-After installing GPU I am eagerly trying to see if my installation worked. Time to put the electrican hat on, I unboxed PSU, from PSU there are several connectors:
+After installing GPU I am eagerly trying to see if my installation worked. Time to put the electrician hat on, I unboxed PSU, from PSU there are several connectors:
 - Main motherboard connector (provide power to motherboard)
 - CPU connector (Provide power to CPU)
 - GPU connector (Provide power to GPU)
@@ -65,4 +65,4 @@ Fortunately for me everything worked so well in my first attempt, I managed to t
 
 ### Windows 11
 
-One final work is to install operating system, this is my speciality as I have installed Windows 98 so many times in the past, good old times, lol
+One final work is to install operating system, this is my specialty as I have installed Windows 98 so many times in the past, good old times, lol
