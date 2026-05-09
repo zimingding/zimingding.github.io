@@ -3,7 +3,7 @@ title: "Build PC For Daniel"
 date: 2026-03-17
 description: "How to build a pc in 2026"
 ---
-
+![Daniel's PC](/images/build-pc.jpg)
 ## Background
 
 I have been using pc since year 1997, my dad bought me my first pc when I was about to start university. I know you can assemble all the parts and together they make a pc but I never had the opportunity to build one myself. Always relied on the pc/parts seller to do the job for me. Time flies to 2026, Daniel has been asking for a pc for a while and I decided to build one for him.

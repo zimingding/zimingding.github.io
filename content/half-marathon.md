@@ -4,6 +4,7 @@ date: 2026-05-07
 description: "How does it feel to run a half marathon"
 ---
 
+![Hoka Half Marathon](/images/hoka-half.jpg)
 ## Background
 
 I have been jogging for a long time now, but most my runs are 5ks. I find 5k the sweet spot, it clears my thoughts, loosen my stiff muscles, and is simply great exercise. The longest distance I had run before this was 14km City2Surf.
