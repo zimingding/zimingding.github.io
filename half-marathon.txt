@@ -1,0 +1,47 @@
+1:"$Sreact.fragment"
+2:I[7555,[],""]
+3:I[1295,[],""]
+5:I[9665,[],"MetadataBoundary"]
+7:I[9665,[],"OutletBoundary"]
+a:I[4911,[],"AsyncMetadataOutlet"]
+c:I[9665,[],"ViewportBoundary"]
+e:I[6614,[],""]
+:HL["/_next/static/css/47f2c8271337a794.css","style"]
+0:{"P":null,"b":"rW7hEFqxEv2029l9iiDqu","p":"","c":["","half-marathon"],"i":false,"f":[[["",{"children":[["slug","half-marathon","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/47f2c8271337a794.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","div",null,{"className":"container","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":[["slug","half-marathon","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",["$","$L5",null,{"children":"$L6"}],null,["$","$L7",null,{"children":["$L8","$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","n-kcqh0WIkUBNK6L74gcq",{"children":[["$","$Lc",null,{"children":"$Ld"}],null]}],null]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+f:"$Sreact.suspense"
+10:I[4911,[],"AsyncMetadata"]
+6:["$","$f",null,{"fallback":null,"children":["$","$L10",null,{"promise":"$@11"}]}]
+9:null
+12:I[6874,["874","static/chunks/874-992333f59fd2c78c.js","182","static/chunks/app/%5Bslug%5D/page-f5102d6f52fa5198.js"],""]
+13:Tb6d,<h2>Background</h2>
+<p>I have been jogging for a long time now, but most my runs are 5ks. I find 5k the sweet spot, it clears my thoughts, loosen my stiff muscles, and is simply great exercise. The longest distance I had run before this was 14km City2Surf.</p>
+<p>I did reasonably well in that race. My pace was around 6 minutes per kilometer, but I did not realize that 14 km at that pace was probably also my upper limit.</p>
+<h2>Training and Expectations</h2>
+<p>I did train for the HOKA Half Marathon. In a good week I would do 3 runs:</p>
+<ul>
+<li>one 4x800 threshold run</li>
+<li>one 5k easy run</li>
+<li>and one 10k long run in the weekend</li>
+</ul>
+<p>But as I am getting older, I am no longer as fit as the time when I did City2Surf. Naively I tried to chase a sub 2 hour finish, how wrong I was!</p>
+<h2>The Race</h2>
+<p>The HOKA Half Marathon has a beautiful course through some of Sydney's most iconic areas. Along the route are Sydney Opera House, Harbour Bridge, Darling Harbour, and endless million-dollar water views.</p>
+<p>My start group is 7:35 AM. I arrived at Town Hall around 6:35, which gave me enough time to walk and jog towards the starting point at Macquarie Street in Martin Place.</p>
+<p>Once I entered starting corral, it become very slow as all the athletes are in there. We moved slowly along Macquarie Street between 7:00 and 7:30 before finally reaching the starting line.</p>
+<p>Then the race began.</p>
+<h3>The Easy Part</h3>
+<p>The first 5 to 10 kms are quite easy for me. The roads were not too crowded, we are running on the road with skyscrapers besides us. I ran with 6:00/km pace and I was with the 2 hour 10 minutes pacer. My legs are fresh, I felt great.</p>
+<h3>The Turning Point</h3>
+<p>Around the 14km mark, I entered a strange zone.</p>
+<p>I had never ran beyond 14km before, my body began to feel noticeably tired, my pace dropped, the 2:10 pacer are long gone after Pyrmont.</p>
+<h3>The Difficult Part</h3>
+<p>I was tiered and the race still got a long way to go. The hardest section for me was around Barangaroo Reserve, its sand road and I am completely exhausted and walked for a long time. I think I had depleted most of my available energy.</p>
+<p>If I had taken a gel at 12 km mark, the story would have been different. 14km onwards every km is a challenge, quite a few times I made up my mind to run for the rest of the course, but my legs simply refused to cooperate.</p>
+<h2>Reflection</h2>
+<p>I managed to finish the race at 2 hour 40 minutes. The 21.1 Km run burned 7000KJ of energy that is almost a small adult daily energy intake. Its a resilience and endurance test for me. After I got home, I devoured almost everything within reach and lay in bed for the entire afternoon.</p>
+<p>I think the main mistake was not taking an energy gel, I wrongly believed that a half marathon could be completed without additional energy intake, the race proved me wrong.</p>
+4:["$","article",null,{"className":"post","children":[["$","header",null,{"children":[["$","$L12",null,{"href":"/","children":"← Back to Home"}],["$","h1",null,{"children":"First Half Marathon (and Last?)"}],["$","div",null,{"className":"post-date","children":"May 7, 2026"}]]}],["$","div",null,{"className":"post-content","dangerouslySetInnerHTML":{"__html":"$13"}}],["$","footer",null,{"children":["$","$L12",null,{"href":"/","children":"← All posts"}]}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:{"metadata":[["$","title","0",{"children":"My Blog"}],["$","meta","1",{"name":"description","content":"Personal thoughts on programming"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
+b:{"metadata":"$11:metadata","error":null,"digest":"$undefined"}
