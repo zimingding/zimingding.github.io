@@ -24,6 +24,9 @@ export async function getPostBySlug(slug: string) {
   
   // Use gray-matter to parse the post metadata
   const { data, content } = matter(fileContents);
+
+  // Count words from markdown
+  const wordCount = countWords(content);
   
   // Use remark to convert markdown into HTML
   const processedContent = await remark()
@@ -38,7 +41,8 @@ export async function getPostBySlug(slug: string) {
       ...data,
       date: data.date.toString()
     },
-    content: contentHtml
+    content: contentHtml,
+    wordCount
   };
 }
 
@@ -55,4 +59,13 @@ export async function getAllPosts() {
   return posts.sort((post1, post2) => 
     (new Date(post1.frontMatter.date) > new Date(post2.frontMatter.date) ? -1 : 1)
   );
+}
+
+function countWords(markdown: string) {
+  return markdown
+    .replace(/```[\s\S]*?```/g, '') // remove code blocks
+    .replace(/`.*?`/g, '')          // remove inline code
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean).length;
 }

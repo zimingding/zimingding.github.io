@@ -20,6 +20,8 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
         <h1>{post.frontMatter.title}</h1>
         <div className="post-date">
           {format(new Date(post.frontMatter.date), 'MMMM d, yyyy')}
+          {' · '}
+          {post.wordCount} words
         </div>
       </header>
 
