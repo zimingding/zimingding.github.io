@@ -1,19 +1,20 @@
 1:"$Sreact.fragment"
-2:I[7555,[],""]
-3:I[1295,[],""]
-5:I[9665,[],"MetadataBoundary"]
-7:I[9665,[],"OutletBoundary"]
-a:I[4911,[],"AsyncMetadataOutlet"]
-c:I[9665,[],"ViewportBoundary"]
-e:I[6614,[],""]
+2:I[9256,["177","static/chunks/app/layout-7ad1509166420bf2.js"],"default"]
+3:I[7555,[],""]
+4:I[1295,[],""]
+6:I[9665,[],"MetadataBoundary"]
+8:I[9665,[],"OutletBoundary"]
+b:I[4911,[],"AsyncMetadataOutlet"]
+d:I[9665,[],"ViewportBoundary"]
+f:I[6614,[],""]
 :HL["/_next/static/css/c94b53d25b994b30.css","style"]
-0:{"P":null,"b":"drKQ9BAy-ntPNPnJK1SUA","p":"","c":["","on-reading"],"i":false,"f":[[["",{"children":[["slug","on-reading","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c94b53d25b994b30.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","div",null,{"className":"container","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":[["slug","on-reading","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",["$","$L5",null,{"children":"$L6"}],null,["$","$L7",null,{"children":["$L8","$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","MFaWcQ7S3pNGVJvrZ7Iro",{"children":[["$","$Lc",null,{"children":"$Ld"}],null]}],null]}],false]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
-f:"$Sreact.suspense"
-10:I[4911,[],"AsyncMetadata"]
-6:["$","$f",null,{"fallback":null,"children":["$","$L10",null,{"promise":"$@11"}]}]
-9:null
-12:I[6874,["874","static/chunks/874-992333f59fd2c78c.js","182","static/chunks/app/%5Bslug%5D/page-f5102d6f52fa5198.js"],""]
-13:T1145,<p>I would like to highlight several books thats tremendously influenced the way I think and understand the world.</p>
+0:{"P":null,"b":"gXndvuV6bGsve0tp7s6qE","p":"","c":["","on-reading"],"i":false,"f":[[["",{"children":[["slug","on-reading","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c94b53d25b994b30.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L2",null,{}],["$","div",null,{"className":"container","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":[["slug","on-reading","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",["$","$L6",null,{"children":"$L7"}],null,["$","$L8",null,{"children":["$L9","$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","SbmJ1QDyo-c0gSfYi3aKo",{"children":[["$","$Ld",null,{"children":"$Le"}],null]}],null]}],false]],"m":"$undefined","G":["$f","$undefined"],"s":false,"S":true}
+10:"$Sreact.suspense"
+11:I[4911,[],"AsyncMetadata"]
+7:["$","$10",null,{"fallback":null,"children":["$","$L11",null,{"promise":"$@12"}]}]
+a:null
+13:I[6874,["874","static/chunks/874-55ce409b2494ac42.js","182","static/chunks/app/%5Bslug%5D/page-f5102d6f52fa5198.js"],""]
+14:T1145,<p>I would like to highlight several books thats tremendously influenced the way I think and understand the world.</p>
 <h2>How it all started</h2>
 <p>Zeng Guofan is the first serious biography I read, back in 2024. Zeng is highly regarded among Chinese history figures,  and from his biography I understand why.</p>
 <p>The greatest benefit of reading biographies is that they allow us to stay close to the person and observe how they think, how they work, how they make decisions.</p>
@@ -34,8 +35,8 @@ f:"$Sreact.suspense"
 <p>I forgot to mention Walden and several classics like Jane Eyre, The Scarlet Letter, and Wuthering Heights.</p>
 <p>Walden is such a jewel that I believe it has more practical value than even Shakespeare. There is just so much wisdom in Walden can be picked up and applied to everyday life.</p>
 <p>Before I read Benjamin Franklin I really like Wang's ideas but its just not as practical or remained somewhat abstract. I just don't know how to become like Wang, lucky Franklin has shared his secret sauce.</p>
-4:["$","article",null,{"className":"post","children":[["$","header",null,{"children":[["$","$L12",null,{"href":"/","children":"← Back to Home"}],["$","h1",null,{"children":"On Reading"}],["$","div",null,{"className":"post-date","children":["September 9, 2026"," · ",742," words"]}]]}],["$","div",null,{"className":"post-content","dangerouslySetInnerHTML":{"__html":"$13"}}],["$","footer",null,{"children":["$","$L12",null,{"href":"/","children":"← All posts"}]}]]}]
-d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-8:null
-11:{"metadata":[["$","title","0",{"children":"My Blog"}],["$","meta","1",{"name":"description","content":"Personal thoughts on programming"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
-b:{"metadata":"$11:metadata","error":null,"digest":"$undefined"}
+5:["$","article",null,{"className":"post","children":[["$","header",null,{"children":[["$","$L13",null,{"href":"/","children":"← Back to Home"}],["$","h1",null,{"children":"On Reading"}],["$","div",null,{"className":"post-date","children":["September 9, 2026"," · ",742," words"]}]]}],["$","div",null,{"className":"post-content","dangerouslySetInnerHTML":{"__html":"$14"}}],["$","footer",null,{"children":["$","$L13",null,{"href":"/","children":"← All posts"}]}]]}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+12:{"metadata":[["$","title","0",{"children":"My Blog"}],["$","meta","1",{"name":"description","content":"Personal thoughts on programming"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
+c:{"metadata":"$12:metadata","error":null,"digest":"$undefined"}
